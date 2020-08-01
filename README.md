@@ -1,3 +1,3 @@
 # gp-cat
 
-Git 실습
+Git 실습 gp-oct
